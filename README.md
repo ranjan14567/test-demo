@@ -1,7 +1,3 @@
 # java
 
-########3333
-
-#############
-
-#####
+Have Installed Jenkins & Git Integration
